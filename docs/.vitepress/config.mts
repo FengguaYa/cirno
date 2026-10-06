@@ -41,6 +41,13 @@ export default defineConfig({
               { text: '26-09-26', link: '/update/26/26-09/26-09-26' },
               { text: '26-09-22', link: '/update/26/26-09/26-09-22' }
             ]
+          },
+          {
+            text: '26-10',
+            collapsed: true,
+            items: [
+              { text: '26-10-06', link: '/update/26/26-10/26-10-06' }
+            ]
           }
         ]
       },

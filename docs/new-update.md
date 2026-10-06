@@ -1,18 +1,20 @@
-<span style="font-size: 35px; font-weight: bold;">9.26</span>
+<span style="font-size: 35px; font-weight: bold;">10.6</span>
 
 新更新
 
-新增 .mctool ，支持查询正版离线uuid和皮肤等功能
+更新 发病 & 活字印刷 功能资源（资源来源于网络）
 
-新增 .发病 功能，.发病<对象> 即可使用
+将 .ga extra 命令修改为 .ga op
 
-修复了已知问题
+优化 .cave -m 回复格式
 
-更多详情用法请使用 .help
+优化通过好友申请/群邀请体验
 
-扫描下方二维码给咱买点冰棍吧😭
+更新底层文件
 
-[9.26]
+扫描下方二维码支持一下吧😭
+
+[10.6]
 
 <img src="/pictures/donation_code.png" alt="赞助码" width="250" style="display: inline-block;">
-<img src="/pictures/26-09-26updatemeitu.jpg" alt="26-09-26更新美图" width="250" style="display: inline-block;">
+<img src="/pictures/26-10-06updatemeitu.jpg" alt="26-10-06更新美图" width="250" style="display: inline-block;">
