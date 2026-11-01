@@ -14,11 +14,10 @@ hero:
       link: /new-achievement
 
 features:
-  - title: 1
-    details: 123
-  - title: 2
-    details: 123
-  - title: 3
-    details: 123
+  - title: Q：这个网页是做什么的
+    details: A：挂载Bot更新日志以方便查阅
+  - title: Q：懒得写了
+    details: A：123456
+  - title: Q：FumoFumo？
+    details: A：BakaBaka！
 ---
-
